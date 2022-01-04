@@ -1,1 +1,1 @@
-# machine_learning_notebooks
+# Jupyter notebooks about Machine Learning
